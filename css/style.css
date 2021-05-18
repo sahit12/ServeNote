@@ -1,0 +1,13 @@
+body {
+    font-family: 'Barlow', sans-serif !important;
+}
+
+.logo {
+    padding: 10px;
+    font-size: 28px !important;
+    font-weight: bolder;
+    background: -webkit-linear-gradient(right, rgb(253, 174, 27), rgb(102, 116, 240));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
